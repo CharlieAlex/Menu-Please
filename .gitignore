@@ -1,0 +1,5 @@
+.venv
+.DS_Store
+Note.md
+test*
+**/__pycache__
