@@ -1,8 +1,8 @@
 services:
 - type: web
-  name: food-line-bot
+  name: Linebot_Restr
   env: python
-  repo: https://github.com/CharlieAlex/Food_Linebot
+  repo: https://github.com/CharlieAlex/Linebot_Restr
   buildCommand: pip install -r requirements.txt
   startCommand: gunicorn main:app
   plan: free
