@@ -22,3 +22,9 @@
 3. 機器人會回傳一家餐廳的菜單
 
 ![step3](image/step3.png)
+
+## 參考資源
+
+[在 Render 搭建 Line Bot](https://rnnnnn.medium.com/在-render-搭建-line-bot-92b35bedb24e)
+
+[[Python爬蟲實例] 教你爬取"foodpanda"餐飲外送平台](https://blog.jiatool.com/posts/foodpanda_spider/#取得餐廳基本資料與菜單)
