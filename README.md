@@ -14,9 +14,9 @@
 3. 機器人會回傳一家餐廳的菜單
 
 <div style="display: flex;">
-  <img src="image/step1.png?raw=true" alt="Step 1" style="width: 33%;">
-  <img src="image/step2.png?raw=true" alt="Step 2" style="width: 33%;">
-  <img src="image/step3.png?raw=true" alt="Step 3" style="width: 33%;">
+  <img src="image/step1.png?raw=true" alt="Step 1" style="width: 25%;">
+  <img src="image/step2.png?raw=true" alt="Step 2" style="width: 25%;">
+  <img src="image/step3.png?raw=true" alt="Step 3" style="width: 25%;">
 </div>
 
 ## 參考資源
