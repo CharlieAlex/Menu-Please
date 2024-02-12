@@ -4,7 +4,7 @@
 
 ## 安裝方法
 
-1. 搜尋line帳號`@402uhghb`或是掃描以下QR Code，來加入好友。
+搜尋line帳號`@402uhghb`或是掃描以下QR Code，來加入好友。
 ![QR Code](image/qrcode.png)
 
 ## 使用方法
